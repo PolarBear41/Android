@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph_authentication.xml","javaFiles":["com.example.irentmovie.ui.login.LoginFragmentDirections","com.example.irentmovie.ui.register.RegisterFragmentDirections"]},{"navFile":"src\\main\\res\\navigation\\nav_graph_main.xml","javaFiles":[]}]

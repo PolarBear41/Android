@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_shape_divider_horizontal_default_space.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\shape_divider_horizontal_default_space.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_shape_form_input_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\shape_form_input_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\color_selector_action_second_button_text.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\color\\selector_action_second_button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_shape_action_button_pressed.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\shape_action_button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_movie.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\movie.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_rounded_rectangle.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\rounded_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_button_edittext_gradient.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\button_edittext_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\color_color_selector.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\color\\color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_list_gradient.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\list_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\layout_fragment_create_post.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\layout\\fragment_create_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\color_selector_action_text.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\color\\selector_action_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_profile_placeholder.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\layout_item_movie_ad.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\layout\\item_movie_ad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_button_gradient.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\button_gradient.xml"
+    },
+    {
+        "merged": "com.example.irentmovie.app-debug-79:/layout_fragment_profile.xml.flat",
+        "source": "com.example.irentmovie.app-main-81:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_item_selector.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\color_selector_action_button_text.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\color\\selector_action_button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\navigation_nav_graph_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\navigation\\nav_graph_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\layout_fragment_product_list.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\layout\\fragment_product_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_ic_key.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\ic_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_drawable_selector.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\drawable_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_button_pressed_gradient.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\button_pressed_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_selector_action_button.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\selector_action_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_rounded_rectangle_pressed.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\rounded_rectangle_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_shape_action_second_button_default.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\shape_action_second_button_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\navigation_nav_graph_authentication.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\navigation\\nav_graph_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_shape_divider_vertical_default_space.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\shape_divider_vertical_default_space.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\drawable_shape_action_button_default.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\drawable\\shape_action_button_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-debug-79:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.7\\com.example.irentmovie.app-main-81:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
